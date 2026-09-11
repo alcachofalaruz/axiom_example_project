@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Axiom Example - Build" type="RunNativeExe" factoryName="Native Executable">
+    <option name="EXE_PATH" value="C:\Windows\System32\cmd.exe" />
+    <option name="PROGRAM_PARAMETERS" value="/d /c build.bat debug" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="USE_EXTERNAL_CONSOLE" value="false" />
+    <method v="2" />
+  </configuration>
+</component>
